@@ -1,2 +1,2 @@
-# Pot-nciaFeminina-Git
+# PotenciaFeminina-Git
 Exercício01 Git
